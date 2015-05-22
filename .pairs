@@ -1,0 +1,7 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  bs: Balaji Seshadri; balaji
+  jdk: Jean de Klerk; jdeklerk
+email:
+  prefix: pair
+  domain: pivotal.io
